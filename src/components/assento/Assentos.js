@@ -34,7 +34,7 @@ export default function Assentos() {
             console.log("Assentos... OK")
         })
             .catch((err) => {
-                console.log("Erro nos Assentos")
+                console.log("Erro nos Assentos...")
                 console.log(err)
             })
     }, []);
