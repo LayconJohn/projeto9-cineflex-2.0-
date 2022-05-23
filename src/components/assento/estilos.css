@@ -1,0 +1,30 @@
+main {
+    padding-bottom: 117px;
+}
+
+.assento {
+    width: 26px;
+    height: 26px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 11px;
+    margin: 8px 4px
+}
+
+.disponivel {
+    background-color: #C3CFD9;
+    border: 1px solid #808F9D;
+}
+
+.selecionado {
+    background-color: #8DD7CF;
+    border: 1px solid #8DD7CF;
+}
+
+.indisponivel {
+    background-color: #FBE192;
+    border: 1px solid #FBE192;
+}

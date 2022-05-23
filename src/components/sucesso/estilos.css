@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.descricao {
+    margin: 0 auto;
+}
+
+.descricao h6 {
+    margin: 4px 29px;
+}
+
+.descricao p {
+    margin: 2px 29px;
+}
